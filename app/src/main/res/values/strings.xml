@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">Ninguém pode fazer você se sentir inferior sem o seu consentimento. - Eleanor Roosevelt</string>
+    <string name="affirmation2">Para ter um negócio de sucesso, alguém, algum dia, teve que tomar uma atitude de coragem. - Peter Drucker</string>
+    <string name="affirmation3">Você deve esperar grandes coisas de você mesmo antes de poder faze-las - Michael Jordan</string>
+    <string name="affirmation4">Estar decidido, acima de qualquer coisa, é o segredo do êxito. - Henry Ford</string>
+    <string name="affirmation5">A única forma de chegar ao impossível é acreditar que é possível. - Alice no País das Maravilhas</string>
+    <string name="affirmation6">Se você não pode explicar isso simplesmente, você não entende bem o suficiente. - Albert Einstein</string>
+    <string name="affirmation7">Só adie para amanhã o que você esta disposto a morrer tendo deixado desfeito. - Pablo Picasso</string>
+    <string name="affirmation8">Por sabedoria entendo a arte de tornar a vida mais agradável e feliz possível. - Arthur Schopenhauer</string>
+    <string name="affirmation9">É possível mudar nossas vidas e a atitude daqueles que nos cercam simplesmente mudando a nós mesmos. - Rudolf Dreikurs</string>
+    <string name="affirmation10">Creia em si, mas não duvide sempre dos outros. - Machado de Assis</string>
+</resources>
