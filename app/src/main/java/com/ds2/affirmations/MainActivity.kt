@@ -1,8 +1,9 @@
 package com.ds2.affirmations
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import android.widget.TextView
+import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.RecyclerView
+import com.ds2.affirmations.adapter.ItemAdapter
 import com.ds2.affirmations.data.DataSource
 
 class MainActivity : AppCompatActivity() {
@@ -10,8 +11,10 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        val textView: TextView = findViewById(R.id.textView)
-        textView.text = DataSource().loadAffirmations().size.toString()
+        val myDataset = DataSource().loadAffirmations()
+        val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
+        recyclerView.adapter = ItemAdapter(this, myDataset)
+        recyclerView.setHasFixedSize(true)
 
     }
 }
