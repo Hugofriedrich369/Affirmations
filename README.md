@@ -15,4 +15,4 @@ Projeto criado nas aulas de PdAMI (Programação de Aplicação Mobile I), aqui 
 
 ## 🌎 | Links
 
-[Link do projeto no Android Studio Developer](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerviewscrollable-list?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-recyclerview-scrollable-list#6)
+[Link do projeto no Android Studio Developer](https://developer.android.com/codelabs/basic-android-kotlin-training-recyclerview-scrollable-list?continue=https://developer.android.com/courses%2&hl=pt-br#0)
